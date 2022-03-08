@@ -1,7 +1,7 @@
 # The Potioneers (Composable NFTs)
 
 ## How it works
-In this game, you have 3 items + players who are normal wallets ([EOAs](https://ethereum.stackexchange.com/questions/5828/what-is-an-eoa-account)])
+In this game, you have 3 items + players who are normal wallets ([EOAs](https://ethereum.stackexchange.com/questions/5828/what-is-an-eoa-account))
 - **Potioneers** (ERC721) - Avatar characters. They alone can brew potions. They can also own supplies.
   If a potioneer is transferred or sold by a player, it's potion supplies go with it.
 - **Potion Supplies** (ERC1155) - Supplies used to brew potions
